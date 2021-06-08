@@ -1,0 +1,12 @@
+1) Continous and experimental:
+in our Visual studio view we have for instance 2 build processes: continous and experimental. If we delete the .gitnore file and build experimental ,
+ we come across an error. but if we build with countinous, it will go to the online repository and pulls down any files necessary to make our local repository match the online repository. But the experimental build does not do that
+
+2) The Nightly buid:
+the nightly build works as the same as the countinous build, exept it download files at a specific time (in the CTestConfig.cmake file) 
+
+3) Package build:
+3-1) with zip and winrar checked (in Cmake, choose CPACK and check zip and/or winrar)
+allow o create a zip (or winrar, when choosen) directory with folders containing bin (executable) and src (source code, .cpp) files
+3-2) with NSIS checked
+	this option is for installing my package

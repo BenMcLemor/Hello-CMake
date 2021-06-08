@@ -1,0 +1,10 @@
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/HelloWorld.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/Experimental.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/Continuous.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/Nightly.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/PACKAGE.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/INSTALL.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/ZERO_CHECK.dir

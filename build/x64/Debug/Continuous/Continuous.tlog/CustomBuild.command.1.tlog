@@ -1,0 +1,20 @@
+^C:\USERS\ATC\DOCUMENTS\CMAKETUTORIALS\HELLO WORLD\BUILD\CMAKEFILES\C32A7D3E38C9534D91BB3398E3E8B770\CONTINUOUS.RULE
+setlocal
+C:\cmake-3.20.3-windows-x86_64\bin\ctest.exe -C Debug -D Continuous
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ATC\DOCUMENTS\CMAKETUTORIALS\HELLO WORLD\CMAKELISTS.TXT
+setlocal
+C:\cmake-3.20.3-windows-x86_64\bin\cmake.exe "-SC:/Users/atc/Documents/CMakeTutorials/Hello World" "-BC:/Users/atc/Documents/CMakeTutorials/Hello World/build" --check-stamp-file "C:/Users/atc/Documents/CMakeTutorials/Hello World/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

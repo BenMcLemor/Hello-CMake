@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Update mode="Client" Generator="ctest-3.20.3">
+	<Site>DESKTOP-38DOFKR</Site>
+	<BuildName>Win32-MSBuild</BuildName>
+	<BuildStamp>20210608-1005-Continuous</BuildStamp>
+	<StartDateTime>Jun 08 12:05 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</StartDateTime>
+	<StartTime>1623146724</StartTime>
+	<UpdateCommand>"C:/Program Files/Git/cmd/git.exe" "fetch"</UpdateCommand>
+	<UpdateType>GIT</UpdateType>
+	<Revision>7939622c7aadb091d6324d7f90fd64d5789906e0</Revision>
+	<EndDateTime>Jun 08 12:05 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</EndDateTime>
+	<EndTime>1623146732</EndTime>
+	<ElapsedMinutes>0</ElapsedMinutes>
+	<UpdateReturnStatus/>
+</Update>

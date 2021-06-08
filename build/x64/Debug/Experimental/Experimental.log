@@ -1,0 +1,36 @@
+﻿     Site: DESKTOP-38DOFKR
+     Build name: Win32-MSBuild
+  Create new tag: 20210608-1005 - Experimental
+  Configure project
+     Each . represents 1024 bytes of output
+      . Size of output: 0K
+  Build project
+     Each symbol represents 1024 bytes of output.
+     '!' represents an error and '*' a warning.
+      . Size of output: 0K
+     0 Compiler errors
+     0 Compiler warnings
+  Test project C:/Users/atc/Documents/CMakeTutorials/Hello World/build
+      Start 1: test1
+  1/1 Test #1: test1 ............................   Passed    0.03 sec
+  
+  100% tests passed, 0 tests failed out of 1
+  
+  Total Test time (real) =   0.04 sec
+  Performing coverage
+   Cannot find any coverage files. Ignoring Coverage request.
+  Submit files
+     SubmitURL: http://
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 1 of 3
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 2 of 3
+     Submit failed, waiting 5 seconds...
+     Retry submission: Attempt 3 of 3
+     Error when uploading file: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/Testing/20210608-1005/Configure.xml
+     Error message was: 
+     Problems when submitting via HTTP
+  Errors while running CTest
+  Output from these tests are in: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/Testing/Temporary/LastTest.log
+  Use "--rerun-failed --output-on-failure" to re-run the failed cases verbosely.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Der benutzerdefinierte Build für "C:\Users\atc\Documents\CMakeTutorials\Hello World\build\CMakeFiles\c32a7d3e38c9534d91bb3398e3e8b770\Experimental.rule" wurde mit dem Code 64 beendet.

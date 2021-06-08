@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20210608-1005-Experimental"
+	Name="DESKTOP-38DOFKR"
+	Generator="ctest-3.20.3"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30037/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.29.30037.0"
+	OSName="Windows"
+	Hostname="DESKTOP-38DOFKR"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19041)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="18693"
+	TotalPhysicalMemory="16261"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2594"
+	>
+	<Build>
+		<StartDateTime>Jun 08 12:05 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</StartDateTime>
+		<StartBuildTime>1623146701</StartBuildTime>
+		<BuildCommand>C:\cmake-3.20.3-windows-x86_64\bin\cmake.exe --build . --config "Debug"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Jun 08 12:05 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</EndDateTime>
+		<EndBuildTime>1623146702</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

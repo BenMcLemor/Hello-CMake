@@ -1,0 +1,9 @@
+Upload files:
+0	Configure.xml
+1	Build.xml
+2	Test.xml
+3	Done.xml
+	Upload file: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/Testing/20210608-1005/Configure.xml to DESKTOP-38DOFKR___Win32-MSBuild___20210608-1005-Experimental___XML___Configure.xml
+   Error when uploading file: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/Testing/20210608-1005/Configure.xml
+   Error message was: 
+   Problems when submitting via HTTP

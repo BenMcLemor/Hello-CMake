@@ -1,0 +1,2 @@
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/_CPack_Packages/win64/ZIP/HelloWorld-0.1.1-win64/bin/HelloWorld.exe
+C:/Users/atc/Documents/CMakeTutorials/Hello World/build/_CPack_Packages/win64/ZIP/HelloWorld-0.1.1-win64/src/Main.cpp

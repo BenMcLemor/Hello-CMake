@@ -25,3 +25,6 @@ add_test("test1" "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}")
 
 # the 3 optional parameter is for checking in the main function if there is a parameter. It does not matter what parameter there is, but it is checked if there is a parameter. (see main line 5 (if (argc > 1)))
 ## add_test("test2" "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}" "someparameter")
+
+
+include(CPack)

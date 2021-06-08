@@ -1,0 +1,15 @@
+﻿  CPack: Create package using 7Z
+  CPack: Install projects
+  CPack: - Install project: HelloWorld [Debug]
+  CPack: Create package
+  CPack: - package: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/HelloWorld-0.1.1-win64.7z generated.
+  CPack: Create package using NSIS
+  CPack: Install projects
+  CPack: - Install project: HelloWorld [Debug]
+  CPack: Create package
+  CPack: - package: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/HelloWorld-0.1.1-win64.exe generated.
+  CPack: Create package using ZIP
+  CPack: Install projects
+  CPack: - Install project: HelloWorld [Debug]
+  CPack: Create package
+  CPack: - package: C:/Users/atc/Documents/CMakeTutorials/Hello World/build/HelloWorld-0.1.1-win64.zip generated.

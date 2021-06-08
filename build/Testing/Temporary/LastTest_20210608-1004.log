@@ -1,0 +1,19 @@
+Start testing: Jun 08 12:04 Mitteleuropäische Sommerzeit
+----------------------------------------------------------
+1/1 Testing: test1
+1/1 Test: test1
+Command: "C:/Users/atc/Documents/CMakeTutorials/Hello World/build/Debug/HelloWorld.exe"
+Directory: C:/Users/atc/Documents/CMakeTutorials/Hello World/build
+"test1" start time: Jun 08 12:04 Mitteleuropäische Sommerzeit
+Output:
+----------------------------------------------------------
+Hello World!
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test1" end time: Jun 08 12:04 Mitteleuropäische Sommerzeit
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 08 12:04 Mitteleuropäische Sommerzeit
